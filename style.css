@@ -1,0 +1,68 @@
+.header {
+	padding: 80px;
+	background-image: url("italy.png");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center;
+
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+.cuisinehead {
+	padding: 80px;
+	background-image: url("pissa.png");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center;
+
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+.landmarkshead {
+	padding: 80px;
+	background-image: url("big arena place.png");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center;
+
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+.historyhead {
+	padding: 80px;
+	background-image: url("who are you i am from ancient rome.png");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center;
+
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+footer {
+	background-color: #333;
+	padding: 60px;
+	text-align: left;
+	color: white;
+}
+
+.navbar {
+	display: flex;
+	background-color: #333;
+}
+
+.navbar a {
+	flex: 1;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
